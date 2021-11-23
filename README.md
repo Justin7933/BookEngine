@@ -14,10 +14,10 @@ This tracker is to allow you to track your fitness workouts all in one applicati
 As a User
 
 ### I want to
-  Create a fitness tracker
+  view books
 
 ### So that 
-I can see my fitness workouts in one place
+I can save and read them later
 
 ## links 
 *Here* is the deployed heroku site: https://glacial-inlet-02418.herokuapp.com/<p>
