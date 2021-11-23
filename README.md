@@ -11,6 +11,8 @@ This tracker is to allow you to track your fitness workouts all in one applicati
     <li><strong>morgan</strong></li>
     <li><strong>apollo-server</strong></li>
     <li><strong>graphql</strong></li>
+    <li><strong>react</strong></li>
+    <li><strong>concurrently</strong></li>
 </ul><p>
 ## User-Story <p>
 As a User
