@@ -1,5 +1,5 @@
 # Book Engine<p>
-This tracker is to allow you to track your fitness workouts all in one application. Using the mongodb you can save the data in a workout list. You can add as many as you want. Follow the instructions on the list and fill in what's needed.<p>
+This application allows you to view books by searching via search bar. You can login and when you do you are able to save books you like and save them to your collection.<p>
 ## Tools used 
   <ul>
     <li><strong>Node.js</strong></li>
